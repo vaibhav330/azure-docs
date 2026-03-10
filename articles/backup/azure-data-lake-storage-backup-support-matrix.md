@@ -108,6 +108,7 @@ The following table lists the restore method limits:
 | ------------------------ | ------------------------------------------------------------ |
 | Full restore             | You can restore the complete storage account to an alternate location.|
 | Containers restore       | You can select one or more containers or use prefix to filter specific containers to restore.|
+| Containers restore       | You can select one or more containers or use prefix to filter specific containers to restore.|
 
 >[!Note]
 >- Cool and Cold tier blobs are restored in Hot tier.
